@@ -27,7 +27,9 @@ As histórias de usuário são cadastradas individualmente como **GitHub Issues*
 - status inicial;
 - requisitos funcionais e casos de uso relacionados.
 
-O resumo do backlog está em [`BACKLOG.md`](BACKLOG.md).
+Documentos de apoio:
+- [`BACKLOG.md`](BACKLOG.md) — resumo consolidado das histórias e prioridades;
+- [`RASTREABILIDADE.md`](RASTREABILIDADE.md) — relação entre histórias, RFs e casos de uso.
 
 ## Convenção de status
 
