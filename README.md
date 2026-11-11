@@ -14,6 +14,14 @@ Integrantes:
 
 Organizar os artefatos do Trabalho Prático e, em especial, registrar as histórias de usuário em uma ferramenta de gerenciamento de projetos, mantendo rastreabilidade com requisitos e casos de uso.
 
+## Documento final — SRS v1.0
+
+- [Especificação final em PDF](entrega-final/SRS_S44_V1.0_Final_PedroBertoncelo_MatteoLima.pdf)
+- [Especificação final em Word editável](entrega-final/SRS_S44_V1.0_Final_PedroBertoncelo_MatteoLima.docx)
+- [Orientações da entrega final](entrega-final/README.md)
+
+A versão 1.0 incorpora a US09 e as atualizações de rastreabilidade propostas no [PR #10](https://github.com/TeoZ08/engenharia-requisitos-s44/pull/10).
+
 ## Backlog
 
 As histórias de usuário são cadastradas individualmente como **GitHub Issues**, com:
