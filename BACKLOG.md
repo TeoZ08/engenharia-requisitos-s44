@@ -23,6 +23,7 @@ Quadro visual: [`QUADRO_BACKLOG.md`](QUADRO_BACKLOG.md) (versão estática); [Is
 | S44-US06 | Manter categorias e conteúdo | Média | Should | Não | A Fazer | [#6](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/6) |
 | S44-US07 | Acompanhar filas e indicadores | Média | Should | Não | A Fazer | [#7](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/7) |
 | S44-US08 | Gerenciar usuários e perfis | Baixa | Could | Não | A Fazer | [#8](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/8) |
+| S44-US09 | Escalonar ao supervisor | Média | Should | Não | A Fazer | [#9](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/9) |
 
 ## Escopo do MVP
 
@@ -33,7 +34,7 @@ O MVP considera inicialmente as histórias **S44-US01 a S44-US05**, cobrindo:
 4. continuidade do atendimento com contexto;
 5. registro do desfecho.
 
-As histórias S44-US06, S44-US07 e S44-US08 permanecem fora do MVP inicial e apoiam governança, administração e evolução posterior.
+As histórias S44-US06, S44-US07, S44-US08 e S44-US09 permanecem fora do MVP inicial e apoiam governança, administração e evolução posterior. No piloto, o escalonamento ao supervisor (S44-US09) pode ser feito manualmente.
 
 ## Convenção de status
 
