@@ -26,7 +26,7 @@ O requisito **RF11** (escalonamento ao supervisor) está ligado a **UC03**, à h
 | RNF01 | UC01, UC02, UC04, UC08 | US01, US03, US04, US08 |
 | RNF02 | UC03, UC04, UC07, UC08, UC09 | US04, US07, US08, US09 |
 | RNF03 | UC01 | US02 |
-| RNF04 | UC02, UC04, UC09 | US04 |
+| RNF04 | UC02, UC04, UC09 | US03, US04 |
 | RNF05 | UC01, UC02, UC04 | US01, US03, US04 |
 | RNF06 | UC01, UC02 | US01, US03 |
 | RNF07 | UC01, UC02, UC04 | US01, US03, US04 |
