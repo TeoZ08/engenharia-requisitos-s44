@@ -14,13 +14,12 @@ Integrantes:
 
 Organizar os artefatos do Trabalho Prático e, em especial, registrar as histórias de usuário em uma ferramenta de gerenciamento de projetos, mantendo rastreabilidade com requisitos e casos de uso.
 
-## Documento final — SRS v1.1 (13/11/2026)
+## Especificação de Requisitos de Software
 
-- [Especificação final em PDF](entrega-final/SRS_S44_V1.1_Entrega_Final_PedroBertoncelo_MatteoLima.pdf)
-- [Especificação editável em DOCX](entrega-final/SRS_S44_V1.1_Entrega_Final_PedroBertoncelo_MatteoLima.docx)
-- [Orientações da entrega final](entrega-final/README.md)
+- [Documento em PDF](entrega-final/Especificacao_de_Requisitos_S44_Pedro_Bertoncelo_Matteo_Lima.pdf)
+- [Documento editável em Word](entrega-final/Especificacao_de_Requisitos_S44_Pedro_Bertoncelo_Matteo_Lima.docx)
 
-A versão v1.1 incorpora a US09, as correções de rastreabilidade, a atualização do diagrama UML, o glossário e a declaração específica de auxílio de ChatGPT e Claude Code.
+A especificação abrange requisitos funcionais e não funcionais, personas, jornadas, casos de uso, histórias, matriz de rastreabilidade, MVP e declaração de uso de IA.
 
 ## Backlog
 
@@ -48,8 +47,5 @@ Todas as histórias iniciam em **A Fazer (To Do)**. No GitHub, isso corresponde 
 
 Foi utilizada a técnica **MoSCoW**, complementada pela indicação de prioridade Alta, Média ou Baixa.
 
-O quadro é estático: não substitui um **GitHub Projects** nativo, que requer autorização adicional com escopo Projects.
+O backlog é acompanhado por meio das Issues públicas e do quadro de status disponível no repositório.
 
-## Observação acadêmica
-
-Este repositório é utilizado como apoio à organização do Trabalho Prático. Os artefatos permanecem sujeitos à revisão crítica do grupo antes da entrega final.
