@@ -23,6 +23,8 @@ A especificação abrange requisitos funcionais e não funcionais, personas, jor
 
 ## Backlog
 
+**[Abrir quadro Kanban oficial no GitHub Projects](https://github.com/users/TeoZ08/projects/1/views/2)** — projeto público com nove histórias, status e prioridades atualizados diretamente nas Issues.
+
 As histórias de usuário são cadastradas individualmente como **GitHub Issues**, com:
 - identificador;
 - título;
@@ -36,12 +38,12 @@ As histórias de usuário são cadastradas individualmente como **GitHub Issues*
 
 Documentos de apoio:
 - [`BACKLOG.md`](BACKLOG.md) — resumo consolidado das histórias e prioridades;
-- [`QUADRO_BACKLOG.md`](QUADRO_BACKLOG.md) — quadro visual público (estático) em três colunas;
+- [`QUADRO_BACKLOG.md`](QUADRO_BACKLOG.md) — acesso ao quadro Kanban público do GitHub Projects;
 - [`RASTREABILIDADE.md`](RASTREABILIDADE.md) — relação entre histórias, RFs e casos de uso.
 
 ## Convenção de status
 
-Todas as histórias iniciam em **A Fazer (To Do)**. No GitHub, isso corresponde a uma Issue aberta até que o grupo altere seu estado durante a evolução do trabalho.
+No GitHub Projects, todas as histórias têm status inicial **A Fazer**. As outras colunas são **Em andamento** e **Concluído**; a situação de cada história é acompanhada no campo Status do projeto.
 
 ## Priorização
 
