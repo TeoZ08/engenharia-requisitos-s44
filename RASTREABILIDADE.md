@@ -14,9 +14,9 @@ Esta matriz relaciona as histórias de usuário cadastradas como Issues aos requ
 | [S44-US08](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/8) | RF14 | UC08 | Não |
 | [S44-US09](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/9) | RF11 | UC03 | Não |
 
-## Observação
+## Referências de rastreabilidade
 
-As relações acima foram mantidas em coerência com o SRS v0.95 e devem continuar alinhadas com a numeração adotada na versão final. Caso um requisito ou caso de uso seja renumerado ou alterado, esta matriz e as Issues correspondentes também devem ser atualizadas.
+Os vínculos apresentados estão alinhados à Especificação de Requisitos de Software do Grupo S44.
 ## Cobertura dos requisitos não funcionais
 
 O requisito **RF11** (escalonamento ao supervisor) está ligado a **UC03**, à história **S44-US09** e à jornada **J02**.
@@ -36,4 +36,4 @@ O requisito **RF11** (escalonamento ao supervisor) está ligado a **UC03**, à h
 | RNF11 | UC01, UC02 | US01, US02, US03 |
 | RNF12 | UC01, UC05, UC07 | US02, US05, US07 |
 
-As relações completas de **RF01–RF14 e RNF01–RNF12** aparecem na matriz do SRS (seção 4.8), incluindo objetivos, regras e jornadas.
+A matriz integral encontra-se na seção 4.8 da especificação e relaciona RF01–RF14, RNF01–RNF12, objetivos, regras e jornadas.
