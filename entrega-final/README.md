@@ -4,24 +4,21 @@
 
 Integrantes: **Pedro Bertoncelo Figueiredo** e **Matteo Lima Scotti**.
 
-## Arquivos da especificação
+## Arquivos finais
 
-- [SRS v1.0 — PDF](SRS_S44_V1.0_Final_PedroBertoncelo_MatteoLima.pdf)
-- [SRS v1.0 — DOCX editável](SRS_S44_V1.0_Final_PedroBertoncelo_MatteoLima.docx)
+- [SRS v1.1 — PDF para envio no AVA](SRS_S44_V1.1_Entrega_Final_PedroBertoncelo_MatteoLima.pdf)
+- [SRS v1.1 — DOCX editável](SRS_S44_V1.1_Entrega_Final_PedroBertoncelo_MatteoLima.docx)
 
-O documento foi consolidado a partir do SRS v0.9 e das alterações aceitas no [PR #10](https://github.com/TeoZ08/engenharia-requisitos-s44/pull/10), incluindo a US09, sua associação a RF11/UC03, ajustes de RNFs e rastreabilidade.
+A versão 1.1 incorpora o trabalho do Pedro via [PR #10](https://github.com/TeoZ08/engenharia-requisitos-s44/pull/10), a US09 e a rastreabilidade revisada, os diagramas corrigidos, legenda das figuras, ampliação do glossário e a **Seção 5 — Declaração de Uso de Inteligência Artificial** (ChatGPT e Claude Code).
 
-## Artefatos de acompanhamento
+Os arquivos v1.0 foram substituídos na pasta para evitar confusão sobre a versão a submeter. O histórico permanece no Git.
 
-- [Backlog com 9 histórias](../BACKLOG.md) — os itens são mantidos como Issues abertas, status inicial `A Fazer`
-- [Rastreabilidade](../RASTREABILIDADE.md)
-- [Quadro visual público (estático)](../QUADRO_BACKLOG.md)
-- [Issues oficiais](https://github.com/TeoZ08/engenharia-requisitos-s44/issues)
+## Backlog e critérios
 
-## Premissas de leitura
+- [Nove histórias de usuário](../BACKLOG.md) — [Issues públicas](https://github.com/TeoZ08/engenharia-requisitos-s44/issues)
+- [Matriz de rastreabilidade](../RASTREABILIDADE.md)
+- [Quadro visual estático](../QUADRO_BACKLOG.md)
 
-As metas quantitativas e o limiar de confiança são **critérios propostos** para posterior avaliação, não resultados obtidos em testes. As personas e as jornadas representam cenários hipotéticos e não pesquisa empírica com usuários.
+As metas quantitativas e o limiar de confiança são **propostas de especificação**, não resultados obtidos em testes. As personas e jornadas são cenários acadêmicos, não entrevistas efetivamente realizadas.
 
-**Nota de submissão:** esta pasta contém a especificação técnica. A eventual declaração acadêmica de uso de IA será fornecida em documento separado pelo grupo, conforme decisão dos integrantes.
-
-Material acadêmico — T01/2026-2 — UFMS.
+**Entrega do TP:** 13/11/2026. Somente o PDF do SRS deve ser submetido no AVA, após conferência dos integrantes.
