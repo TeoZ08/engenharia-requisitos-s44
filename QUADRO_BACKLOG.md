@@ -1,6 +1,6 @@
 # Quadro visual do backlog — S44
 
-Versão estática do quadro de acompanhamento das histórias de usuário. Cada cartão aponta para uma GitHub Issue pública, que concentra descrição, critérios de aceitação, prioridade e rastreabilidade.
+Quadro de acompanhamento das histórias de usuário do Grupo S44. Cada item possui uma GitHub Issue pública com descrição, critérios de aceitação, prioridade e rastreabilidade.
 
 | A Fazer (To Do) | Em andamento | Concluído |
 |:--|:--|:--|
@@ -14,7 +14,7 @@ Versão estática do quadro de acompanhamento das histórias de usuário. Cada c
 | [US08 — Gerenciar usuários e perfis](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/8) | | |
 | [US09 — Escalonar ao supervisor](https://github.com/TeoZ08/engenharia-requisitos-s44/issues/9) | | |
 
-> O quadro registra o estado inicial do projeto acadêmico. Ele **não é um GitHub Project dinâmico**: movimentos de estado devem ser refletidos aqui e nas respectivas Issues.
+> O quadro apresenta o estado inicial das histórias. O acompanhamento dos itens é realizado nas respectivas Issues.
 
 ## Links
 
