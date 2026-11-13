@@ -9,7 +9,7 @@ Foi utilizada **MoSCoW**:
 - **Should**: importante para qualidade, governança ou evolução do produto, mas não bloqueia o fluxo básico;
 - **Could**: desejável, porém pode ser simplificado ou adiado no primeiro experimento.
 
-Quadro de acompanhamento: [`QUADRO_BACKLOG.md`](QUADRO_BACKLOG.md); [Issues públicas](https://github.com/TeoZ08/engenharia-requisitos-s44/issues).
+**[Quadro Kanban oficial (GitHub Projects)](https://github.com/users/TeoZ08/projects/1/views/2)** · [Issues públicas](https://github.com/TeoZ08/engenharia-requisitos-s44/issues) · [Rastreabilidade](RASTREABILIDADE.md).
 
 ## Histórias de usuário
 
@@ -38,4 +38,4 @@ As histórias S44-US06, S44-US07, S44-US08 e S44-US09 permanecem fora do MVP ini
 
 ## Convenção de status
 
-No GitHub, cada história permanece como **Issue aberta** enquanto estiver em `A Fazer`. O fechamento da Issue deverá ocorrer somente quando os critérios de aceitação correspondentes forem considerados atendidos pelo grupo.
+O campo **Status** do GitHub Projects define as etapas **A Fazer**, **Em andamento** e **Concluído**. A coluna Status acima representa o estado inicial documentado; o quadro dinâmico é a fonte para acompanhamento atual. Uma Issue deve ser encerrada somente quando seus critérios de aceitação forem atendidos.
